@@ -12,5 +12,5 @@
 Ноутбук: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V1qQBOZwszLzSh8o0hquKhKUi3bBvwUz?usp=sharing)
 
 ## Алгоритм Adavatage Actor Critic a.k.a. A2C:
-Ноутбук: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gGbQkvjrsqPK9OYP8A364LkQUT6RDg-k?usp=sharing)
+Ноутбук: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fB4bDifIraJu4_v713qdVxY2EsVqvNxN?usp=sharing)
 
